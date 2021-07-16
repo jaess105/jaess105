@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+### Code Wars Katas
+
+![](https://www.codewars.com/users/jaess105/badges/large)
+
+[Mein Kata Repo](https://github.com/jaess105/CodeWars_Katas/blob/master/README.adoc)
+
+
 <!--
 **jaess105/jaess105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

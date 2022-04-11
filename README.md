@@ -5,7 +5,7 @@
 
 ![](https://www.codewars.com/users/jaess105/badges/large)
 
-[Mein Kata Repo](https://github.com/jaess105/CodeWars_Katas/blob/master/README.adoc)
+[Mein Kata Repo](https://github.com/jaess105/CodeWars_Katas)
 
 
 <!--

@@ -60,7 +60,7 @@ The Katas I solved in different languages can be found
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jaess105&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaess105)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaess105&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

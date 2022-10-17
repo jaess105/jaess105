@@ -45,11 +45,21 @@ The Katas I solved in different languages can be found
     <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" 
          width="45" height="45">
     <img src="https://skillicons.dev/icons?i=git" >
-    <img src="https://skillicons.dev/icons?i=linkedin" >
-    <img src="https://skillicons.dev/icons?i=discord" >
+    <a href="https://www.linkedin.com/in/jannik-esser-04ab83212/"> 
+        <img src="https://skillicons.dev/icons?i=linkedin" > 
+    </a>
+    <a href="https://discordapp.com/users/Fandjayjay#8196"> 
+        <img src="https://skillicons.dev/icons?i=discord" >
+    </a>
     <img src="https://skillicons.dev/icons?i=raspberrypi" >
     <img src="https://skillicons.dev/icons?i=stackoverflow" >
 </p>
+
+
+### GitHub stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+
 
 <!--
 **jaess105/jaess105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

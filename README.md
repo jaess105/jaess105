@@ -17,8 +17,6 @@ The Katas I solved in different languages can be found
 </a>
 </p>
 
-### Code Wars Katas
-
 ### Languages and Tools I use[^1]:
 
 <p align="center">

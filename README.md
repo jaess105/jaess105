@@ -58,7 +58,7 @@ The Katas I solved in different languages can be found
 
 ### GitHub stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jaess105&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jaess105&show_icons=true&theme=dracula&include_all_commits=true)
 
 
 <!--

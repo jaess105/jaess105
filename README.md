@@ -15,11 +15,11 @@ The Katas I solved on Code Wars in different languages can be found
 <a href="https://github.com/jaess105/CodeWars_Katas">here</a>.
 The Katas I solved on Leet Code in Kotlin can be found 
 <a href="https://github.com/jaess105/Leetcode">here</a>.
-
+<br>
 <a href="https://github.com/jaess105/CodeWars_Katas">
     <img src="https://www.codewars.com/users/jaess105/badges/large" width="300"/>
 </a>
-
+<br>
 <a href="https://github.com/jaess105/Leetcode">
     <img src="https://leetcard.jacoblin.cool/Jaess105?theme=dark&font=Turret%20Road&ext=heatmap">
 </a>

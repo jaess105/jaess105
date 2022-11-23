@@ -55,13 +55,11 @@ The Katas I solved in different languages can be found
     <img src="https://skillicons.dev/icons?i=stackoverflow" >
 </p>
 
-
 ### GitHub stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jaess105&show_icons=true&theme=dracula&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaess105&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **jaess105/jaess105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

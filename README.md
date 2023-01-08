@@ -15,14 +15,6 @@ The Katas I solved on Code Wars in different languages can be found
 <a href="https://github.com/jaess105/CodeWars_Katas">here</a>.
 The Katas I solved on Leet Code in Kotlin can be found 
 <a href="https://github.com/jaess105/Leetcode">here</a>.
-<br>
-<a href="https://github.com/jaess105/CodeWars_Katas">
-    <img src="https://www.codewars.com/users/jaess105/badges/large" width="300"/>
-</a>
-<br>
-<a href="https://github.com/jaess105/Leetcode">
-    <img src="https://leetcard.jacoblin.cool/Jaess105?theme=dark&font=Turret%20Road&ext=heatmap">
-</a>
 </p>
 
 ### Languages and Tools I use[^1]:
@@ -69,19 +61,20 @@ The Katas I solved on Leet Code in Kotlin can be found
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaess105&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**jaess105/jaess105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CodeWars stats
 
-Here are some ideas to get you started:
+<p>
+<a href="https://github.com/jaess105/CodeWars_Katas">
+    <img src="https://www.codewars.com/users/jaess105/badges/large" width="300"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Leetcode stats
+
+<p>
+<a href="https://github.com/jaess105/Leetcode">
+    <img src="https://leetcard.jacoblin.cool/Jaess105?theme=dark&font=Turret%20Road&ext=heatmap">
+</a>
+</p>
 
 [^1]: The icons are from [skillicons](https://skillicons.dev)

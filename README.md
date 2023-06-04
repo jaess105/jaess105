@@ -23,6 +23,8 @@ The Katas I solved on Leet Code in Kotlin can be found
     <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=kotlin" />
     <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=dotnet" />
     <img src="https://skillicons.dev/icons?i=dart" />
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=python" />
@@ -32,7 +34,7 @@ The Katas I solved on Leet Code in Kotlin can be found
     <img src="https://skillicons.dev/icons?i=clojure" />
     <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://skillicons.dev/icons?i=cpp" />
-    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=rust" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
@@ -71,12 +73,12 @@ The Katas I solved on Leet Code in Kotlin can be found
 </a>
 </p>
 
-### Leetcode stats
+<!-- ### Leetcode stats
 
 <p>
 <a href="https://github.com/jaess105/Leetcode">
     <img src="https://leetcard.jacoblin.cool/Jaess105?theme=dark&font=Turret%20Road&ext=heatmap">
 </a>
-</p>
+</p> -->
 
 [^1]: The icons are from [skillicons](https://skillicons.dev)

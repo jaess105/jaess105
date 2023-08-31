@@ -61,9 +61,9 @@ The Katas I solved on Leet Code in Kotlin can be found
 
 ### GitHub stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jaess105&show_icons=true&theme=dracula&count_private=true)
+![My GitHub stats](https://github-readme-stats-jaess105.vercel.app/api?username=jaess105&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaess105&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jaess105.vercel.app/api/top-langs/?username=jaess105&theme=dracula&count_private=true&langs_count=10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### CodeWars stats
 

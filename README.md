@@ -19,15 +19,16 @@ The Katas I solved on Leet Code in Kotlin can be found
 
 ### Languages and Tools I use[^1]:
 
-<p align="center">
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=dotnet" />
     <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=kotlin" />
     <img src="https://skillicons.dev/icons?i=spring" />
-    <img src="https://skillicons.dev/icons?i=cs" />
-    <img src="https://skillicons.dev/icons?i=dotnet" />
     <img src="https://skillicons.dev/icons?i=dart" />
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=ts" />
     <img src="https://skillicons.dev/icons?i=angular" />
     <img src="https://skillicons.dev/icons?i=docker" />
@@ -35,7 +36,6 @@ The Katas I solved on Leet Code in Kotlin can be found
     <img src="https://skillicons.dev/icons?i=c" />
     <img src="https://skillicons.dev/icons?i=cpp" />
     <img src="https://skillicons.dev/icons?i=rust" />
-    <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=bash" >
@@ -57,7 +57,7 @@ The Katas I solved on Leet Code in Kotlin can be found
     </a>
     <img src="https://skillicons.dev/icons?i=raspberrypi" >
     <img src="https://skillicons.dev/icons?i=stackoverflow" >
-</p>
+</div>
 
 ### Stats
 

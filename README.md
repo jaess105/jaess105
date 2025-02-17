@@ -59,26 +59,28 @@ The Katas I solved on Leet Code in Kotlin can be found
     <img src="https://skillicons.dev/icons?i=stackoverflow" >
 </p>
 
-### GitHub stats
+### Stats
 
-![My GitHub stats](https://github-readme-stats-jaess105.vercel.app/api?username=jaess105&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
+    <div>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=jaess105&show_icons=true&theme=dracula&count_private=true" />
+        </a>
+        <a href="https://github.com/anuraghazra/convoychat">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaess105&theme=dracula&count_private=true&langs_count=10&layout=pie" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/jaess105/CodeWars_Katas">
+            <img src="https://www.codewars.com/users/jaess105/badges/large" width="300"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/jaess105/Leetcode">
+            <img src="https://leetcard.jacoblin.cool/Jaess105?theme=dark&font=Turret%20Road&ext=heatmap">
+        </a>
+    </div>
+</div>
 
-[![Top Langs](https://github-readme-stats-jaess105.vercel.app/api/top-langs/?username=jaess105&theme=dracula&count_private=true&langs_count=10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-### CodeWars stats
-
-<p>
-<a href="https://github.com/jaess105/CodeWars_Katas">
-    <img src="https://www.codewars.com/users/jaess105/badges/large" width="300"/>
-</a>
-</p>
-
-<!-- ### Leetcode stats
-
-<p>
-<a href="https://github.com/jaess105/Leetcode">
-    <img src="https://leetcard.jacoblin.cool/Jaess105?theme=dark&font=Turret%20Road&ext=heatmap">
-</a>
-</p> -->
 
 [^1]: The icons are from [skillicons](https://skillicons.dev)

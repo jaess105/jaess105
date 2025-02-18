@@ -13,25 +13,7 @@ The Katas I solved on Code Wars in different languages can be found
 The Katas I solved on Leet Code in Kotlin can be found 
 [here](https://github.com/jaess105/Leetcode).
 
-### Advent of code
 
-I often participate in the advent of code coding challenges during December.
-
-[![AoC 2024](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=aoc-2024&theme=dracula&border_radius=10)](
-    https://github.com/jaess105/aoc-2024
-)
-[![AoC 2023](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=aoc-2023&theme=dracula&border_radius=10)](
-    https://github.com/jaess105/aoc-2023
-)
-[![AoC 2022](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=AoC-2022&theme=dracula&border_radius=10)](
-    https://github.com/jaess105/AoC-2022
-)
-[![AoC 2021](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=AoC-2021&theme=dracula&border_radius=10)](
-    https://github.com/jaess105/AoC-2021
-)
-[![AoC 2020](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=Advent-of-Code-2020&theme=dracula&border_radius=10)](
-    https://github.com/jaess105/Advent-of-Code-2020
-)
 
 ### Languages and Tools I use[^1]:
 
@@ -100,6 +82,26 @@ I often participate in the advent of code coding challenges during December.
         <img src="https://skillicons.dev/icons?i=discord"/>
     </a>
 </div>
+
+### Advent of code
+
+I often participate in the advent of code coding challenges during December.
+
+[![AoC 2024](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=aoc-2024&theme=dracula&border_radius=10)](
+    https://github.com/jaess105/aoc-2024
+)
+[![AoC 2023](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=aoc-2023&theme=dracula&border_radius=10)](
+    https://github.com/jaess105/aoc-2023
+)
+[![AoC 2022](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=AoC-2022&theme=dracula&border_radius=10)](
+    https://github.com/jaess105/AoC-2022
+)
+[![AoC 2021](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=AoC-2021&theme=dracula&border_radius=10)](
+    https://github.com/jaess105/AoC-2021
+)
+[![AoC 2020](https://github-readme-stats.vercel.app/api/pin/?username=jaess105&repo=Advent-of-Code-2020&theme=dracula&border_radius=10)](
+    https://github.com/jaess105/Advent-of-Code-2020
+)
 
 ### Stats
 

@@ -1,21 +1,18 @@
 ### Hi there 👋
 
-<p> 
 I'm a computer science student at the Heinrich Heine University in Germany.
 I love coding and love to learn everything I can!
-</p>
 
-<p> 
 In my spare time I sometimes solve 
-<a href="https://www.codewars.com/r/iGtS7w">Code Wars</a> 
+[Code Wars](https://www.codewars.com/r/iGtS7w)
 and
-<a href="https://leetcode.com/">Leet Code</a>
+[Leet Code](https://leetcode.com/)
 Katas. 
 The Katas I solved on Code Wars in different languages can be found 
-<a href="https://github.com/jaess105/CodeWars_Katas">here</a>.
+[here](https://github.com/jaess105/CodeWars_Katas).
 The Katas I solved on Leet Code in Kotlin can be found 
-<a href="https://github.com/jaess105/Leetcode">here</a>.
-</p>
+[here](https://github.com/jaess105/Leetcode).
+
 
 ### Languages and Tools I use[^1]:
 

@@ -116,7 +116,7 @@ I often participate in the advent of code coding challenges during December.
     </div>
     <div>
         <a href="https://github.com/jaess105/CodeWars_Katas">
-            <img src="https://www.codewars.com/users/jaess105/badges/large" width="300"/>
+            <img src="https://www.codewars.com/users/jaess/badges/large" width="300"/>
         </a>
     </div>
     <div>

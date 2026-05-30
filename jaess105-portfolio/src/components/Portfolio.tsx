@@ -12,11 +12,11 @@ export default function Portfolio() {
       <section className="max-w-5xl mx-auto px-6 pt-24 pb-16 md:py-32 flex flex-col md:flex-row items-center gap-12 border-b border-slate-800">
         <div className="w-48 h-48 md:w-64 md:h-64 relative flex-shrink-0">
           <div className="absolute inset-0 bg-gradient-to-tr from-emerald-500 to-teal-400 rounded-3xl rotate-6 scale-105 opacity-30 blur-sm"></div>
-          <img
+          {/* <img
             src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=500&q=80"
             alt="Developer Portrait"
             className="w-full h-full object-cover rounded-3xl relative z-10 border border-slate-700"
-          />
+          /> */}
         </div>
 
         <div className="flex-1 text-center md:text-left">

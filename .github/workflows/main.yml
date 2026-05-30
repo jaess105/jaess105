@@ -34,7 +34,7 @@ jobs:
         with:
           node-version: 25
           cache: "pnpm"
-        working-directory: ./jaess105-portfolio
+          cache-dependency-path: "./jaess105-portfolio/pnpm-lock.yaml"
 
       - name: Install dependencies
         # Runs installation inside the subfolder

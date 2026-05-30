@@ -1,6 +1,7 @@
 import type { Project } from "./types";
 
-export const PROJECTS: Project[] = [
+export const PROJECTS: Project[] = [];
+[
   {
     title: "E-Commerce Microservices",
     description:

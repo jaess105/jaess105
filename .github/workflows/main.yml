@@ -34,6 +34,7 @@ jobs:
         with:
           node-version: 25
           cache: "pnpm"
+        working-directory: ./jaess105-portfolio
 
       - name: Install dependencies
         # Runs installation inside the subfolder
